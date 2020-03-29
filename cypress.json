@@ -1,0 +1,13 @@
+{
+    "projectId": "google search",
+    "video": true,
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "mochawesome-report",
+        "overwrite": true,
+        "html": true,
+        "json": true
+    }
+}
