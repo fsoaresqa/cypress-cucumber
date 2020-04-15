@@ -13,10 +13,10 @@ Roda os testes
 
     Rodar os testes em modo headless (electron)
 
-$ npm run cypress:run
+$ npm run cy:run
 
     Rodar os testes no modo interativo (Playground)
     
-$ npm run cypress:open
+$ npm run cy:open
 
 
